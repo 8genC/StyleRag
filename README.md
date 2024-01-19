@@ -1,2 +1,5 @@
 # Style Rag
-A new package of tools designed to revolutionize fashion ecommerce through intelligent search
+An open source project building Rag & Recommender tools for fashion ecommerce applications
+
+Author: Antwoine Flowers
+Contributors: Aditya Agrawal
